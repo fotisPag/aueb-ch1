@@ -9,7 +9,7 @@ public class EuroUsdConverter {
 
         Scanner in = new Scanner (System.in);
         int inputEuros;
-        final int PARITY = 99;
+        final int PARITY = 104;
         int totalUsaCents, usaCents, usaDollars;
 
         System.out.println("Please insert an amount to euro");
